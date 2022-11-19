@@ -18,8 +18,8 @@ body {
 }
 
 header {
-  padding-bottom: 72px;
-  padding-top: 72px;
+  padding-bottom: 64px;
+  padding-top: 96px;
 }
 main {
   background-color: hsl(0deg, 0%, 30%);
@@ -29,6 +29,9 @@ main {
 }
 p {
   line-height: 1.5;
+}
+h2,h1 {
+  margin: 0;
 }
 strong {
   color: hsl(160deg, 100%, 30%);
